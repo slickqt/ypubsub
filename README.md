@@ -1,4 +1,4 @@
-ypubsub
+yj github test
 =======
 
-pub sub library in qt
+just test github for study
